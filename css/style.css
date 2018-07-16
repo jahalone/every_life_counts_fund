@@ -1,0 +1,168 @@
+   body {
+       padding-top: 90px;
+       overflow-x: hidden;
+   }
+   
+   .hero-area {
+       background: url('../imgs/jumbo.jpg') center center fixed no-repeat;
+       background-size: cover;
+       color: #fff;
+       text-shadow: 1px 1px 4px rgba(0, 0, 0, .6);
+   }
+   
+   .hero-area .container {
+       padding: 50px 0;
+   }
+   /* jumbotron */
+   
+   .btn-text {
+       border: 2px solid #fff;
+       color: #fff;
+       text-shadow: 1px 1px 4px rgba(0, 0, 0, .6);
+   }
+   
+   .btn-text:hover {
+       background: #fff;
+       color: green;
+   }
+   
+   .container .h2-about {
+       margin: 40px 0;
+       padding: 15px 0;
+       text-align: center;
+   }
+   /* footer */
+   
+   .footer-row {
+       font-size: 15px;
+       background: #333;
+       margin: 50px 0 0;
+       padding: 50px 0;
+       color: #999;
+   }
+   
+   .footer-row a {
+       color: #999;
+   }
+   
+   .footer-row p {
+       font-size: 20px;
+       margin-bottom: 5px;
+       color: #fff !important;
+   }
+   /* Social Medial Icons */
+   
+   .social-media-icon {
+       margin-left: 0px;
+       margin-top: 15px;
+   }
+   
+   .social-media-icon a img {
+       width: 30px;
+       height: 30px;
+       padding: 5px 0 5px;
+   }
+   /*footer logo */
+   
+   .footer-logo {
+       margin-left: 15px;
+   }
+   
+   .connect-us .footer-logo {
+       width: 280px;
+       height: 140px;
+   }
+   
+   .copy-right {
+       text-align: center;
+       margin: 40px 0 5px;
+   }
+   /* about page */
+   
+   .about-page h1 {
+       text-align: center;
+       padding-top: 50px;
+       padding-bottom: 20px;
+       color: seagreen;
+   }
+   /* what we do image */
+   
+   .what-we-do-gen {
+       margin-top: 30px;
+       margin-bottom: -50px;
+       background-color: rgb(236, 233, 233);
+       overflow-x: hidden;
+   }
+   
+   .what-we-do-gen .h2-what-we-do {
+       margin-top: 30px;
+       padding-top: 50px;
+       padding-bottom: 25px;
+       text-align: center;
+       color: darksalmon;
+   }
+   
+   .what-we-do-gen p {
+       font-size: 15px;
+       padding-left: 25px;
+   }
+   /* @media screen and (min-width: 768px) {
+       .what-we-do-gen p {
+           margin-left: 200px;
+       }
+   }*/
+   
+   .what-we-do-img img {
+       padding-top: 0;
+       width: inherit;
+       height: 400px;
+   }
+   /* executive profile */
+   
+   .card-container {
+       border-top: 5px solid green;
+       border-radius: 15px;
+       margin-top: 30px;
+       margin-bottom: 20px;
+       padding-top: 30px;
+       text-align: center;
+       /*background: rgb(236, 233, 233);*/
+   }
+   
+   .main-card-container {
+       margin-top: 50px;
+       padding-top: 30px;
+   }
+   
+   .card-img-executive {
+       width: 250px;
+       height: 250px;
+       align-self: center;
+   }
+   
+   .executive-h2 {
+       margin-top: 50px;
+       text-align: center;
+       color: green;
+   }
+   
+   .executive-h4 {
+       text-align: center;
+       padding-top: 10px;
+   }
+   /****** Modal ******/
+   
+   .contact-info h5 {
+       color: green;
+       text-align: center;
+   }
+   
+   .contact-body p {
+       text-align: center;
+       font-style: 35px;
+   }
+   
+   .contact-body a {
+       text-align: center;
+       margin: auto;
+   }
